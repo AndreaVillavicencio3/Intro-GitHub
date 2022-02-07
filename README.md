@@ -13,3 +13,4 @@
 
 ![hack1](img/ipadpro_blog2.png)
 ![hack2](img/galaxyfold_servicios.png)
+![hack3](img/spotifylogo2.png)
