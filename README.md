@@ -10,3 +10,4 @@
 ![hack](img/GALAXyfold_blog_footer igual en todas las diferentes pantallas.PNG)
 
 ### insertamos otra imagen
+
